@@ -1,9 +1,8 @@
 Vagrant setup for nginx, node.js and express
-#############################################
+=============================================
 
 Setup:
 ------
-
 ```bash
 $ vagrant box add base http://files.vagrantup.com/precise32.box
 $ vagrant init
